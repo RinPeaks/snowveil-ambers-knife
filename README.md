@@ -1,16 +1,12 @@
-# ambers-knife
+ambers-knife
 
 [drive-link](https://drive.google.com/file/d/1syRc9bYR8mbKdz1KacEAhFFR151aFfhO/view?usp=drive_link)
 
-## Controls
+Controls
 
 Arrow keys to move
 
-##
-
 Z to jump
-
-##
 
 X + Arrow key to Dash attack
 
